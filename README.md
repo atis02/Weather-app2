@@ -1,5 +1,5 @@
 # React + Vite
-[https://weather-app2-ln2wn29f9-atis02.vercel.app/](https://weather-app2-ln2wn29f9-atis02.vercel.app/)
+https://weather-app2-ln2wn29f9-atis02.vercel.app
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
